@@ -15,7 +15,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/midnightprioriem/foundry-vtt-the-dark-between/master/world.json",
-  "download": "https://codeload.github.com/MidnightPrioriem/the-dark-between/zip/master",
+  "download": "https://codeload.github.com/MidnightPrioriem/foundry-vtt-the-dark-between/zip/master",
   "protected": false,
   "coreVersion": "9.242",
   "resetKeys": false,
