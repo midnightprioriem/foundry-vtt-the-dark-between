@@ -1,6 +1,7 @@
 {
   "name": "the-dark-between",
   "title": "The Dark Between",
+  "url": "https://github.com/midnightprioriem/foundry-vtt-the-dark-between",
   "description": "",
   "authors": [],
   "flags": {},
@@ -13,6 +14,7 @@
   "system": "cortexprime",
   "dependencies": [],
   "socket": false,
+  "manifest": "https://raw.githubusercontent.com/midnightprioriem/foundry-vtt-the-dark-between/master/world.json",
   "download": "https://codeload.github.com/MidnightPrioriem/the-dark-between/zip/master",
   "protected": false,
   "coreVersion": "9.242",
