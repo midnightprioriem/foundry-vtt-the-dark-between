@@ -13,9 +13,11 @@
   "system": "cortexprime",
   "dependencies": [],
   "socket": false,
+  "download": "https://codeload.github.com/MidnightPrioriem/the-dark-between/zip/master",
   "protected": false,
   "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.1.0"
+  "systemVersion": "0.1.0",
+  "coreVersion": "0.9.0"
 }
