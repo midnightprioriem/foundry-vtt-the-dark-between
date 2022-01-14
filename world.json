@@ -19,5 +19,5 @@
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.1.0",
-  "coreVersion": "0.9.0"
+  "compatibleCoreVersion": "9.0"
 }
